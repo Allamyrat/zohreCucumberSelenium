@@ -1,7 +1,6 @@
-@contacts
+@contacts @smoke
 Feature: Contacts Page
 
-@wip
   Scenario: Default Page Number
     Given the user is on the login page
     And the user enters the driver information
